@@ -3,7 +3,7 @@
 # Module-4
 
 # EXP-01 Exception Prevention Using pass
-
+ 
 # Aim:
 
 To prevent a program from throwing an error by using the pass statement appropriately.
